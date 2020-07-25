@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Kalana
 
+<br/>
+<a href="https://www.linkedin.com/in/kalana-mihiranga-577a2112a/">
+  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 <!--
 **ffalpha/ffalpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
