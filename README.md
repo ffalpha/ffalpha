@@ -5,7 +5,7 @@
 
 <a href="https://github.com/ffalpha">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ffalpha&theme=merko&hide=html,hack,c++,css" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ffalpha&layout=compact&theme=merko&hide=html,hack,c++,css" />
 </a>
 <a href="https://github.com/ffalpha">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ffalpha&show_icons=true&include_all_commits=true&hide=stars&theme=merko&line_height=27" alt="Kalans's github stats" />
