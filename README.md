@@ -7,6 +7,6 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ffalpha&&count_private=true&layout=compact&theme=merko&hide=html,hack,c++,css" />
 </a>
 <a href="https://github.com/ffalpha">
- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ffalpha&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ffalpha&show_icons=true&hide=stars&count_private=true&theme=merko&line_height=27" alt="Kalans's github stats" />
 </a>
 
